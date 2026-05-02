@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BooksXMLReaderTests/BooksXMLReaderUnitTests.csproj" />
+  <Project Path="TestBooksXMLReader/BooksXMLReader.csproj" />
+</Solution>
